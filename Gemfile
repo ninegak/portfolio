@@ -50,3 +50,6 @@ group :development do
   gem "web-console"
 end
 
+# Gemfile
+gem 'net-pop', '~> 0.1.2'
+
